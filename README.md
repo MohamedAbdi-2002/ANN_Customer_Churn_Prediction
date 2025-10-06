@@ -18,7 +18,7 @@ It demonstrates how machine learning can be used to identify customers likely to
 This project is for academic purposes under Karatina University coursework.
 
 ## 👤 Author
-**Mohamed Mohamed Abdi**  
+**Mohamed Mohamed Abdi - P101/2227G/22**  
 Bachelor of Science in Computer Science  
 Karatina University  
 
