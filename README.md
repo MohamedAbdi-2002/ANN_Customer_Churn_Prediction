@@ -16,6 +16,8 @@ It demonstrates how machine learning can be used to identify customers likely to
 
 ## 🧾 License
 This project is for academic purposes under Karatina University coursework.
+note tha the second ANN document is advanced done
+
 
 ## 👤 Author
 **Mohamed Mohamed Abdi - P101/2227G/22**  
