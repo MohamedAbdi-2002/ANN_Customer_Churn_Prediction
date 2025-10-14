@@ -2,6 +2,8 @@
 
 This project uses an Artificial Neural Network (ANN) built with **TensorFlow** and **Keras** to predict customer churn based on historical data.  
 It demonstrates how machine learning can be used to identify customers likely to leave a service.
+“I implemented an additional Random Forest model to compare with the ANN results.
+The Random Forest achieved ___ accuracy, while the ANN achieved ___ accuracy.
 
 ## 📊 Project Overview
 - **Goal:** Predict customer churn using deep learning.
